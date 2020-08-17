@@ -1,0 +1,47 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Oswald', sans-serif; */
+}
+
+.foto-header{
+    background-image: url("../img/bg_hero.png");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    padding-top: 30rem;
+    padding-bottom: 2rem;
+    background-position: center;
+    
+}
+    
+
+.titulo-header{
+    font-size: 4rem;
+    
+}
+
+.subtitulo-header{
+    font-size: 4rem;
+
+}
+
+.titulo-exp{
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+
+}
+
+.parrafo-exp{
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
