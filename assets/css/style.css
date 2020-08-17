@@ -59,5 +59,14 @@ h4{
     font-weight: bolder;
 }
 
+.titulo-footer{
+    font-weight: bolder;
+    vertical-align: middle;
+    font-size: 3rem;
+}
 
+.iconos-footer{
+    text-decoration:none;
+    color: inherit;
+}
 
