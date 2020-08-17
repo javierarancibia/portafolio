@@ -29,7 +29,7 @@ body{
 }
 
 .titulo-exp{
-    font-size: 2rem;
+    font-size: 4rem;
     font-family: 'Open Sans', sans-serif;
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -42,6 +42,20 @@ body{
     font-size: 1rem;
     font-family: 'Open Sans', sans-serif;
 
+}
+
+.iconos-exp{
+    color: #660066;
+}
+
+h4{
+    color: black;
+    font-size: 2rem;
+}
+
+.titulo-logos{
+    font-size: 3rem;
+    font-weight: bolder;
 }
 
 
